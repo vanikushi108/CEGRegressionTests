@@ -1,0 +1,1 @@
+﻿#error Generation error: SpecFlow configuration error -> The configuration section cannot contain a CDATA or text element.
