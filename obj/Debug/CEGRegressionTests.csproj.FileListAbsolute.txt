@@ -11,3 +11,8 @@ C:\Users\vkasala\Desktop\vanitha\specflow\CEGRegressionTests\CEGRegressionTests\
 C:\Users\vkasala\Desktop\vanitha\specflow\CEGRegressionTests\CEGRegressionTests\obj\Debug\CEGRegressionTests.dll
 C:\Users\vkasala\Desktop\vanitha\specflow\CEGRegressionTests\CEGRegressionTests\obj\Debug\CEGRegressionTests.pdb
 C:\Users\vkasala\Desktop\vanitha\specflow\CEGRegressionTests\CEGRegressionTests\obj\Debug\CEGRegressionTests.csprojResolveAssemblyReference.cache
+C:\Users\vkasala\ceg\CEGRegressionTests\bin\Debug\CEGRegressionTests.dll.config
+C:\Users\vkasala\ceg\CEGRegressionTests\bin\Debug\CEGRegressionTests.dll
+C:\Users\vkasala\ceg\CEGRegressionTests\bin\Debug\CEGRegressionTests.pdb
+C:\Users\vkasala\ceg\CEGRegressionTests\obj\Debug\CEGRegressionTests.dll
+C:\Users\vkasala\ceg\CEGRegressionTests\obj\Debug\CEGRegressionTests.pdb

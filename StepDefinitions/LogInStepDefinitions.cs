@@ -13,7 +13,6 @@ namespace CEGRegressionTests.StepDefinitions
         public void Setup()
         {
             Driver.Initialize();
-           // Driver.Instance.Navigate().GoToUrl(Driver.BaseAddress);
         }
 
         [AfterScenario]
